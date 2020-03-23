@@ -1,0 +1,23 @@
+<!doctype html>
+  <html>
+    <head>
+      <meta charset="utf-8">
+      <title>Моя личная страничка</title>
+    </head>
+    <body> 
+      <left><h1>Чзя Сюань</h1></left>
+      <left><img alt="Это не я" width="15%" src="me.jpg"></left>
+      <br/>
+      <h2>Контакты:</h2>
+      <p>Никуда не хочу выйти</p>
+      <p>Избегаю от толпы</p>
+      <p>Насыщенна жизнь</p>
+      Страничка <a href=https://vk.com/id290408818>vkontakte</a>
+      <br/>
+      <a href=https://github.com/username>GitHub</a>
+      <br/>
+      Телефон: <b>+79998886666</b>
+      <br/>
+      E-mail: <i>givemefiveee@edu.hse.ru</i>
+    </body>
+  </html>
