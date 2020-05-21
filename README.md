@@ -10,7 +10,7 @@ ___
 
 **map**
 
-![alt text](https://www.mos.ru/news/item/70902073/)
+![alt text](https://www.mos.ru/upload/newsfeed/newsfeed/tekstilshiki(68).jpg)
 
 
 
