@@ -1,6 +1,5 @@
 # computer instruments
-*ncnx;
-вшэ общежитие 
+## HSE Dorm in moscow
 
 sbhj
 
