@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#d71a5b",
+        "marker-size": "medium",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7767333984375,
+          45.168483598156435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.08685302734374,
+          44.562098859190996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "medium",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.154296875,
+          43.98491011404692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#4a8822",
+        "marker-size": "medium",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.58203125,
+          43.23719944365308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "medium",
+        "marker-symbol": "star"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.322265625000004,
+          59.94950917225228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            30.498046875,
+            60.02095215374802
+          ],
+          [
+            36.71356201171875,
+            45.20913363773731
+          ],
+          [
+            38.09783935546875,
+            44.561120394347185
+          ],
+          [
+            43.1103515625,
+            44.04811573082351
+          ],
+          [
+            46.6259765625,
+            43.32517767999296
+          ],
+          [
+            30.761718749999996,
+            59.987997631212224
+          ]
+        ]
+      }
+    }
+  ]
+}
