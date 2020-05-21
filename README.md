@@ -1,5 +1,8 @@
-# chiaiaiachiang.github.io
+# computer instruments
+*ncnx;
 вшэ общежитие 
+
+sbhj
 
 ## cdnjkxcxc
 njbjkcds
