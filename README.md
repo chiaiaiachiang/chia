@@ -10,10 +10,10 @@ ___
 
 **map**
 
-![alt text](https://images.app.goo.gl/wrXXVRp3eUxLAdob9 "map")
+![alt text](https://camo.githubusercontent.com/c9d0736c34a69e1cea521c8a616fb009cb60ac77/68747470733a2f2f7777772e6873652e72752f707562732f73686172652f6469726563742f313330343737363836)
 
 
-![alt 文字](https://raw.githubusercontent.com/adam-p/markdown-here/master/src/common/images/icon48.png "Logo 標題文字 1")
+
 
 **Шаболовка**
 
