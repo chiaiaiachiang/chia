@@ -1,7 +1,8 @@
 # chiaiaiachiang.github.io
-##ВЫСШАЯ ШКОЛА ЭКОНОМИКИ##
-Общежитие №7
-Москва, 1-й Саратовский проезд, д. 5, к. 2, д. 7, к. 3
+вшэ общежитие 
+
+## cdnjkxcxc
+njbjkcds
 
 <!doctype html>
   <html>
